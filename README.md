@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
