@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Simulation
