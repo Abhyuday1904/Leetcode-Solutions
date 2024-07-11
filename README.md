@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
