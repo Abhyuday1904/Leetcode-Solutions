@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1293-three-consecutive-odds](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0883-car-fleet](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0883-car-fleet) |
+| [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -102,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0883-car-fleet](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0883-car-fleet) |
+| [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
+## Prefix Sum
+|  |
+| ------- |
+| [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
