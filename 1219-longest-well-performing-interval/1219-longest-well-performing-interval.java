@@ -16,8 +16,6 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             if(arr[i]>= ((i+1)/2+1)){
                 max = Math.max(max, i+1);
-               
-                
             }
             else{
                 for(int j=0;j<i;j++){
@@ -25,6 +23,7 @@ class Solution {
                     int req = len/2+1;
                     if(arr[i] - arr[j] >= req){
                         max = Math.max(max, len);
+                        break;
                     }
                 }
             }
