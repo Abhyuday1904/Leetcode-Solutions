@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
