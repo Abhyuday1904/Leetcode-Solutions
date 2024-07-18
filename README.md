@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
+| [3468-find-the-encrypted-string](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
 | ------- |
