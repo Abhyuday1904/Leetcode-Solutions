@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
+| [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
+| [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3468-find-the-encrypted-string](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
