@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3468-find-the-encrypted-string](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
