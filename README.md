@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1293-three-consecutive-odds](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1095-two-city-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1542-consecutive-characters](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1542-consecutive-characters) |
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
