@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3468-find-the-encrypted-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
 | ------- |
