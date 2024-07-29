@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-largest-palindromic-number](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2475-largest-palindromic-number) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
