@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
