@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 ## Binary Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2645-pass-the-pillow](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Heap (Priority Queue)
 |  |
