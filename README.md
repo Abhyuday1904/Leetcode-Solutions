@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
