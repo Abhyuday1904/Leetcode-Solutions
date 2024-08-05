@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Divide and Conquer
 |  |
