@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
 | ------- |
