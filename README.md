@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0274-h-index](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
