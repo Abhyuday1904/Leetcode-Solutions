@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1095-two-city-scheduling) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0883-car-fleet](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0883-car-fleet) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1219-longest-well-performing-interval](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Abhyuday1904/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
