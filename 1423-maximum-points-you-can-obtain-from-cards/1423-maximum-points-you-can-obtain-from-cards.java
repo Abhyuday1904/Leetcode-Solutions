@@ -9,9 +9,8 @@ class Solution {
         if(k == arr.length) return summ;
         while(j<arr.length){
             sum += arr[j];
-            int windowlen = j-i+1;
-            if(windowlen<len) j++;
-            if(windowlen == len){
+            if(j-i+1<len) j++;
+            else if(j-i+1 == len){
                 ans = Math.max(summ - sum,ans);
                 sum -= arr[i];
                 i++;
