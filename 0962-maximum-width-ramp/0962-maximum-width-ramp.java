@@ -10,13 +10,13 @@ class Solution {
             if(arr[i]>=arr[st.peek()]) {
                 while (!st.isEmpty() && arr[i]>=arr[st.peek()]) {
                     ans = Math.max(ans, Math.abs(i - st.peek()));
-              //  System.out.println("Stack Element -> " + arr[st.peek()] + " current index number -> "+ arr[i] + " current index -> "  + i + " answer-> " + ans);
+             
                 st.pop();
                 }
                 if(st.isEmpty()) return ans;
             }
         }
-       // System.out.println(st);
+      
         return ans;
     }
 }
