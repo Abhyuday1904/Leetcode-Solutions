@@ -7,21 +7,20 @@ class Solution {
         }
         Arrays.sort(a);
         int min = Integer.MAX_VALUE;
-     //   System.out.println(Arrays.toString(a));
+    
         for(int i=0;i<a.length-1;i++){
             if(a[i+1] - a[i] >= 0){
                 min = Math.min(a[i+1] - a[i],min);
             }
             
         }
+        if(min <= 1) return min;
         for(int i=0;i<a.length-1;i++){
             if(a[i] <= 720){
                 a[i] += 1440;
             }
         }
          Arrays.sort(a);
-
-       //   System.out.println(Arrays.toString(a));
          for(int i=0;i<a.length-1;i++){
             if(a[i+1] - a[i] >= 0){
                 min = Math.min(a[i+1] - a[i],min);
