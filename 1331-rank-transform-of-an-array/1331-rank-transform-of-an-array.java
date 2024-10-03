@@ -10,8 +10,8 @@ class Solution {
         }
         int ans[]  = new int[arr.length];
         for(int i=0;i<arr.length ;i++){
-            ans[i] = map.get(arr[i]);
+            arr[i] = map.get(arr[i]);
         }
-        return ans;
+        return arr;
     }
 }
