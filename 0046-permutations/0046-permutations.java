@@ -1,26 +1,30 @@
 class Solution {
     public List<List<Integer>> permute(int[] arr) {
         List<List<Integer>> ans = new ArrayList<>();
-        ArrayList<Integer> a = new ArrayList<>();
-        for (int aa : arr) {
-            a.add(aa);
+        ArrayList<Integer> inp = new ArrayList<>();
+        for(int ele : arr){
+            inp.add(ele);
         }
-        add_perm(ans, a, new ArrayList<>());
+        solve(ans , arr , 0);
         return ans;
     }
-
-    private void add_perm(List<List<Integer>> ans, ArrayList<Integer> a, ArrayList<Integer> out) {
-        if (a.size() == 0) {
-            ans.add(new ArrayList<>(out));
-            return;
+    void solve(List<List<Integer>> ans ,  int arr[] , int index){
+       if(index == arr.length){
+        List<Integer> arrr =  new ArrayList<>();
+        for(int aaa : arr ) arrr.add(aaa);
+            ans.add(new ArrayList<>(arrr));
+            return ; 
+       }
+        for(int j = index ; j<arr.length ; j++){
+            swap(arr , index , j );
+            solve(ans , arr , index + 1);
+            swap(arr , index , j );
         }
-
-        for (int i = 0; i < a.size(); i++) {
-            ArrayList<Integer> newA = new ArrayList<>(a);
-            int removedElement = newA.remove(i);
-            ArrayList<Integer> newOut = new ArrayList<>(out);
-            newOut.add(removedElement);
-            add_perm(ans, newA, newOut);
-        }
+    }
+    void swap (int arr[] , int i , int j){
+        int temp = arr[i] ; 
+        arr[i] = arr[j];
+        arr[j] = temp;
+        return ;
     }
 }
