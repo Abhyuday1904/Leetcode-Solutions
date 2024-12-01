@@ -1,60 +1,29 @@
 class Solution {
     public String reverseWords(String s) {
         s = s.trim();
-        int len = s.length();
-        
-        int count =0;
-        for(int i=0;i<len;)
-        {
-            if(s.charAt(i) != ' ')
-            {
-               // ans = ans + s.charAt(i);
-                i++;
-            }
-            else 
-            {   
-                
-                while(s.charAt(i) == ' ')
-                {
+        ArrayList<String> ss = new ArrayList<>();
+        for(int i=0;i<s.length();){
+            if(s.charAt(i)!= ' '){
+                StringBuilder sb = new StringBuilder();
+                while(i<s.length() && s.charAt(i) != ' '){
+                    sb.append(s.charAt(i));
                     i++;
                 }
-              //  ans =  ans + " "; 
-                count++;
+                ss.add(sb.toString());
+                sb.delete(0 , sb.length());
             }
-            
-        }
-        String ans = "";
-      //  System.out.println(count);
-        String st[] = new String[count+1];
-        int idx =0;
-        for(int i=0;i<len;)
-        {
-            if(s.charAt(i) != ' ')
-            {
-                ans = ans + s.charAt(i);
+            else{
                 i++;
             }
-            else 
-            {   
-                
-                while(s.charAt(i) == ' ')
-                {
-                    i++;
-                }
-                st[idx] = ans;
-            idx++;
-            ans ="";
-            }
         }
-        st[count] = ans;
-       //  System.out.println(Arrays.toString(st));
-         StringBuilder sb = new StringBuilder();
-        for(int i = count;i>=1;i--)
-        {
-            sb  = sb.append(st[i]);
-            sb.append(" ");
+        // System.out.println(ss +"size -> " + ss.size());
+        s = "";
+        for(int i = ss.size() -1 ;i>=0 ; i--){
+            s = s + ss.get(i);
+            s = s + " ";
+          
         }
-        sb.append(st[0]);
-        return sb.toString();
+        s = s.trim();
+        return s;
     }
 }
