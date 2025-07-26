@@ -1,7 +1,7 @@
 class Solution {
     public double myPow(double x, int n) {
-         double m = 1;
-          if(x ==0.00001 && n == 2147483647)
+        double m = 1;
+         if(x ==0.00001 && n == 2147483647)
         {
             return 0.00000;
         }
@@ -25,16 +25,16 @@ class Solution {
         {
             return 0;
         }
-        if (0 - n > 0) {
-            for (int i = 1; i <= (0-n); i++) {
-                m = m / x;
+        int k = n;
+        if(n<0) n = -n;
+        while(n>0){
+            if((n & 1) == 1){
+                m = m*x;
             }
-        } else {
-            for (int i = 1; i <= n; i++) {
-                m = m * x;
-            }
+            x = x*x;
+            n = n>>1;
         }
-
+        if(k<0) return 1/m;
         return m;
     }
 }
