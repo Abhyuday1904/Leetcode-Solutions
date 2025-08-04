@@ -11,12 +11,12 @@ class Solution {
             if(map.size()<2){
                 j++;
             }
-            else if(map.size() == 2){
+            else if(map.size() == 2  && j-i+1>ans){
                 ans = Math.max(ans,j-i+1);
                 j++;
             }
             else {
-                while(map.size()>2){
+                while(map.size()>2 && j-i+1>ans){
                     
                     if(map.get(arr[i])>1) map.put(arr[i]  ,  map.get(arr[i]) -1);
                     else if(map.get(arr[i]) <=1) map.remove(arr[i]);
